@@ -1,0 +1,43 @@
+header {
+	background-color: pink;
+	text-align: center;
+	border-radius: 30px ;
+	padding: 1px;
+}
+
+.m {
+	position: absolute;
+	top: 200px;
+	left: 400px;
+	background: linear-gradient(180deg,pink,lightgreen);
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	box-shadow:  3px 3px 10px 10px gray;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.d {
+	position: absolute;
+	top: 500px;
+	left: 900px;
+	background: linear-gradient(90deg,khaki,lightgreen);
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	box-shadow:  3px 3px 10px 10px gray;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+li {
+	list-style: none;
+
+}
+
+

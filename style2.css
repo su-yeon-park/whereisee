@@ -1,0 +1,56 @@
+header {
+	background-color: darkkhaki;
+	border-radius: 20px;
+	padding: 5px;
+	text-align: center;
+	margin: 10px;
+}
+
+h1 {
+	letter-spacing: 20px;
+	color: black;
+	text-decoration: underline;
+	text-decoration-color: darkkhaki;
+}
+
+header > p {
+	letter-spacing: 7px;
+}
+
+article {
+	background-color: khaki;
+	border-radius: 20px;
+	padding: 20px;
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+}
+
+section {
+	background-color: lightyellow;
+	border: 2px dotted darkkhaki;
+	border-radius: 20px;
+	margin: 20px;
+	padding: 20px;
+	width: 370px;
+
+}
+
+h2 {
+	text-decoration: underline;
+	text-decoration-color: darkkhaki;
+	text-decoration-thickness: 3px;
+	text-decoration-style: solid;
+	text-underline-offset: 7px;
+}
+
+section > ul > li > p {
+	line-height: 1.6;
+	word-break: keep-all;
+	border: 2px inset darkkhaki;
+	padding: 15px;
+	border: 2px inset d;
+
+}
